@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <version.sslcontext-kickstart>7.4.2-SNAPSHOT</version.sslcontext-kickstart>
+        <version.sslcontext-kickstart>7.4.2</version.sslcontext-kickstart>
         <version.jetty-reactive-httpclient>1.1.11</version.jetty-reactive-httpclient>
     </properties>
 
